@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BLDC_Library")(type "KiCad")(uri "${KIPRJMOD}/BLDC_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "wch-mcu")(type "KiCad")(uri "${KIPRJMOD}/wch-mcu.kicad_sym")(options "")(descr ""))
+)
