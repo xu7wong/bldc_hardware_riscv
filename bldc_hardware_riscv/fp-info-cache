@@ -1,4 +1,4 @@
-20167571622852093
+20170886683388872
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -14,12 +14,26 @@ audio belton reverb
 7
 7
 BLDC_Library
+ANT-F-1-2.4G-0.6MM-FR4
+2.4GHz PCB antenna for 0.6mm FR4 boards. Design provided by WCH. Website: wch-ic.com
+Antenna, WCH
+0
+2
+1
+BLDC_Library
 HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
 HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HSOP SO
 0
 13
 9
+BLDC_Library
+HSOP-10-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+15
+11
 BLDC_Library
 Nexperia_CFP3_SOD-123W
 Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf
