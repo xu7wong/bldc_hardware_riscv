@@ -1,2 +1,4 @@
 bldc_hardware_riscv/bldc_hardware_riscv-backups
 bldc_hardware_riscv/*.kicad_sch-bak
+bldc_hardware_riscv/bldc_hardware_riscv-backups
+bldc_hardware_riscv/*.zip
