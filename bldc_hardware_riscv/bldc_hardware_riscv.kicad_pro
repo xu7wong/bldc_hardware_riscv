@@ -114,7 +114,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.049999999999999996,
+        "min_clearance": 0.24,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.39999999999999997,
         "min_hole_clearance": 0.25,
