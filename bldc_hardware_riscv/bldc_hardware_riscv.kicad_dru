@@ -1,0 +1,9 @@
+(version 1.0)
+(rule "U1 neckdown"
+   (constraint clearance (min 0.1mm) (opt 0.24mm))
+   (condition "A.insideCourtyard('U1')")
+)
+(rule "J1 neckdown 2"
+   (constraint clearance (min 0.1mm) (opt 0.2mm))
+   (condition "B.insideArea('J1_Clearance')")
+)

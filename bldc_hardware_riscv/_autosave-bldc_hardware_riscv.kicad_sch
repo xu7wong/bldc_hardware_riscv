@@ -4996,7 +4996,7 @@
       (reference "U7") (unit 1) (value "SN65HVD230") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7514785c-24bb-4d50-aa1f-406db13ec888"
-      (reference "U8") (unit 1) (value "CH9141K") (footprint "BLDC_Library:HSOP-10-1EP_3.9x4.9mm_P1.00mm_EP2.3x2.3mm")
+      (reference "U8") (unit 1) (value "CH9141K") (footprint "BLDC_Library:SSOP-10_3.9x4.9mm_P1.00mm")
     )
     (path "/9bd4d2a8-cb94-438a-827f-30b3bd516805/1b346f29-d72d-413b-a16e-f35b1f4eb1dd"
       (reference "U101") (unit 1) (value "MAX9919") (footprint "BLDC_Library:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm")
