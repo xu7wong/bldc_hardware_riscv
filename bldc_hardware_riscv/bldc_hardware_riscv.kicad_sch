@@ -4784,6 +4784,12 @@
     (path "/9bd4d2a8-cb94-438a-827f-30b3bd516805/8d02c3e1-a7ad-4350-9b3d-4bc11e90b7b0"
       (reference "C21") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/9bd4d2a8-cb94-438a-827f-30b3bd516805/01d81d08-19e2-4a33-9c77-51a51b06f9b8"
+      (reference "C22") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/9bd4d2a8-cb94-438a-827f-30b3bd516805/72521bf8-5598-40f1-8536-b39986802a73"
+      (reference "C23") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
     (path "/9bd4d2a8-cb94-438a-827f-30b3bd516805/f294a971-012c-47db-9229-0922f771456d"
       (reference "C24") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
